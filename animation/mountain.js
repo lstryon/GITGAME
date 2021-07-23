@@ -1,0 +1,1 @@
+alert("Obrigado por jogar a demo!")
