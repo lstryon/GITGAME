@@ -3,7 +3,7 @@
 <br>	
 
 <h1 align="center">
-<img align-items="center" alt="Heart" src="https://github.com/luisccsjr/Heart/blob/master/assets/AnimationHeart.gif?raw=true" height="425" />
+<img align-items="center" alt="Heart" src="https://raw.githubusercontent.com/luisccsjr/GITGAME/master/Gif/AnimationGame.gif" height="425" />
 </h1>
 
 <br>
