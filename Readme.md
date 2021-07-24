@@ -8,4 +8,4 @@
 
 <br>
 
-Made by Luis 👋
+<p align="center"> Desafio de criar um jogo utlizando apenas HTML e CSS </p>
